@@ -1,0 +1,10 @@
+C:\Users\damia\source\repos\Engine\bin\Release\Engine.dll
+C:\Users\damia\source\repos\Engine\bin\Release\Engine.pdb
+C:\Users\damia\source\repos\Engine\bin\Release\Microsoft.Analytics.Interfaces.dll
+C:\Users\damia\source\repos\Engine\bin\Release\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\damia\source\repos\Engine\bin\Release\Microsoft.Analytics.Types.dll
+C:\Users\damia\source\repos\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
+C:\Users\damia\source\repos\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Engine\obj\Release\Engine.csproj.CopyComplete
+C:\Users\damia\source\repos\Engine\obj\Release\Engine.dll
+C:\Users\damia\source\repos\Engine\obj\Release\Engine.pdb
