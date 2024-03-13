@@ -34,7 +34,6 @@
             label4 = new Label();
             lblExperience = new Label();
             lblLevel = new Label();
-            btnTest = new Button();
             lblhitpoints = new Label();
             lblGold = new Label();
             SuspendLayout();
@@ -92,16 +91,6 @@
             lblLevel.Size = new Size(0, 20);
             lblLevel.TabIndex = 5;
             // 
-            // btnTest
-            // 
-            btnTest.Location = new Point(279, 221);
-            btnTest.Name = "btnTest";
-            btnTest.Size = new Size(94, 29);
-            btnTest.TabIndex = 6;
-            btnTest.Text = "Test";
-            btnTest.UseVisualStyleBackColor = true;
-            btnTest.Click += btnTest_Click;
-            // 
             // lblhitpoints
             // 
             lblhitpoints.AutoSize = true;
@@ -125,7 +114,6 @@
             ClientSize = new Size(717, 643);
             Controls.Add(lblGold);
             Controls.Add(lblhitpoints);
-            Controls.Add(btnTest);
             Controls.Add(lblLevel);
             Controls.Add(lblExperience);
             Controls.Add(label4);
@@ -146,7 +134,6 @@
         private Label label4;
         private Label lblExperience;
         private Label lblLevel;
-        private Button btnTest;
         private Label lblhitpoints;
         private Label lblGold;
     }
